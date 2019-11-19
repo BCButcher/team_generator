@@ -1,0 +1,22 @@
+{
+  "name": "team_generator",
+  "version": "1.0.0",
+  "description": "Team Generator (Homework)",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCButcher/team_generator.git"
+  },
+  "author": "Brian C Butcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BCButcher/team_generator/issues"
+  },
+  "homepage": "https://github.com/BCButcher/team_generator#readme"
+}
